@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Key Listner</string>
+    <string name="qwerty_listener">Qwerty listener</string>
+    <string name="multi_tap_listener">Multi tap listener</string>
+    <string name="date_listener">Date listener</string>
+    <string name="listen_only_to_decimal_point_without_sign">listen only to decimal point without sign</string>
+    <string name="listen_only_decimal_point_and_sign">Listen only decimal point and sign</string>
+</resources>
